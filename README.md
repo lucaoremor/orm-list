@@ -12,6 +12,20 @@
 - [Prom](https://github.com/Jaymon/prom)
 - [DuckOrm](https://github.com/richecr/duck-orm)
 
+## Go
+- [Go SQLbuilder](https://github.com/huandu/go-sqlbuilder)
+- [BUN](https://github.com/uptrace/bun)
+- [BOB](https://github.com/stephenafamo/bob)
+- [EORM](https://github.com/ecodeclub/eorm)
+- [Korm](https://github.com/kamalshkeir/korm)
+- [GoSQL](https://github.com/ilibs/gosql)
+- [Go MySQL Orm](https://github.com/folospace/go-mysql-orm)
+- [SQLLingo](https://github.com/lqs/sqlingo)
+- [EzORM](https://github.com/ezbuy/ezorm)
+- [AORM](https://github.com/tangpanqing/aorm)
+- [BeeORM](https://github.com/latolukasz/beeorm)
+- [Zorm](https://github.com/springrain/zorm)
+
 ## Ruby
 - [Dynamoid](https://github.com/Dynamoid/dynamoid)
 - [NoBrainer](https://github.com/NoBrainerORM/nobrainer)
