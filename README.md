@@ -26,6 +26,12 @@
 - [BeeORM](https://github.com/latolukasz/beeorm)
 - [Zorm](https://github.com/springrain/zorm)
 
+## Kotlin
+- [AORM](https://github.com/TanVD/AORM)
+- [Komapper](https://github.com/komapper/komapper)
+- [Kotysa](https://github.com/ufoss-org/kotysa)
+- [SQLEX](https://github.com/sqlex/sqlex)
+
 ## Ruby
 - [Dynamoid](https://github.com/Dynamoid/dynamoid)
 - [NoBrainer](https://github.com/NoBrainerORM/nobrainer)
