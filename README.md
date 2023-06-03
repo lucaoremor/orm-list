@@ -32,6 +32,16 @@
 - [Kotysa](https://github.com/ufoss-org/kotysa)
 - [SQLEX](https://github.com/sqlex/sqlex)
 
+## C#
+- [Griffin.Data](https://github.com/jgauffin/Griffin.Data)
+- [PetaPogo](https://github.com/CollaboratingPlatypus/PetaPoco)
+- [Chloe](https://github.com/shuxinqin/Chloe)
+- [Summer Boot](https://github.com/TripleView/SummerBoot)
+- [TinyOrm](https://github.com/sdrapkin/SecurityDriven.TinyORM)
+- [Elephant](https://github.com/takenet/elephant)
+- [Dapper Plus](https://github.com/zzzprojects/Dapper-Plus)
+- [Smart SQL](https://github.com/dotnetcore/SmartSql)
+
 ## Ruby
 - [Dynamoid](https://github.com/Dynamoid/dynamoid)
 - [NoBrainer](https://github.com/NoBrainerORM/nobrainer)
