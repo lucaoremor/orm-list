@@ -26,6 +26,23 @@
 - [BeeORM](https://github.com/latolukasz/beeorm)
 - [Zorm](https://github.com/springrain/zorm)
 
+## Typescript
+- [Orchid ORM](https://github.com/romeerez/orchid-orm)
+- [Lucid](https://github.com/adonisjs/lucid)
+- [Nukak](https://github.com/rogerpadilla/nukak)
+- [Cirql](https://github.com/StarlaneStudios/cirql)
+- [Typetta](https://github.com/twinlogix/typetta)
+- [Pinia ORM](https://github.com/CodeDredd/pinia-orm)
+- [Engine js](https://github.com/neuledge/engine-js)
+- [Joist ts](https://github.com/stephenh/joist-ts)
+- [Pentagon](https://github.com/skoshx/pentagon)
+- [Effect sql](https://github.com/pigoz/effect-sql)
+- [Dittorm](https://github.com/walinejs/dittorm)
+- [Refql](https://github.com/tureluren/refql)
+- [Node sqllite3 orm](https://github.com/gms1/node-sqlite3-orm)
+- [Blitz orm](https://github.com/Blitzapps/blitz-orm)
+- [Fetch r](https://github.com/nexys-system/fetch-r)
+
 ## Kotlin
 - [AORM](https://github.com/TanVD/AORM)
 - [Komapper](https://github.com/komapper/komapper)
