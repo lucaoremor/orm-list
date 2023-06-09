@@ -1,6 +1,7 @@
 # orm-list of upcoming orm libraries
 
 ## Python
+- [Pony](https://github.com/ponyorm/pony)
 - [Beanie](https://github.com/roman-right/beanie)
 - [Piccolo](https://github.com/piccolo-orm/piccolo)
 - [Tortoise ORM](https://github.com/tortoise/tortoise-orm)
@@ -25,6 +26,20 @@
 - [AORM](https://github.com/tangpanqing/aorm)
 - [BeeORM](https://github.com/latolukasz/beeorm)
 - [Zorm](https://github.com/springrain/zorm)
+
+## Javascript
+- [Leoric](https://github.com/cyjake/leoric)
+- [Bean searcher](https://github.com/troyzhxu/bean-searcher)
+- [RDB](https://github.com/alfateam/rdb)
+- [Flyweight](https://github.com/thebinarysearchtree/flyweight)
+- [Toshihiko](https://github.com/XadillaX/Toshihiko)
+- [Rekord](https://github.com/Rekord/rekord)
+- [XPO](https://github.com/DevExpress/XPO)
+- [d1 orm](https://github.com/Interactions-as-a-Service/d1-orm)
+- [Queryql](https://github.com/TRUEPIC/queryql)
+- [Ethair Balloons](https://github.com/petrosDemetrakopoulos/ethairballoons)
+- [OpenSQL](https://github.com/opensql-org/opensql)
+- [Mevn orm](https://github.com/StanleyMasinde/mevn-orm)
 
 ## Typescript
 - [Orchid ORM](https://github.com/romeerez/orchid-orm)
