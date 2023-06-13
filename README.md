@@ -58,6 +58,19 @@
 - [Blitz orm](https://github.com/Blitzapps/blitz-orm)
 - [Fetch r](https://github.com/nexys-system/fetch-r)
 
+## PHP
+- [Propel 2](https://github.com/propelorm/Propel2)
+- [Think ORM](https://github.com/top-think/think-orm)
+- [CYCLE ORM](https://github.com/cycle/orm)
+- [ORM](https://github.com/laravel-doctrine/orm)
+- [data](https://github.com/atk4/data)
+- [Micro ORM](https://github.com/byjg/micro-orm)
+- [db](https://github.com/compositephp/db)
+- [Laraupload](https://github.com/mostafaznv/larupload)
+- [Carbon PHP](https://github.com/RichardTMiles/CarbonPHP)
+- [PHP ORM](https://github.com/riverside/php-orm)
+- [Syra](https://github.com/SertyOan/Syra)
+
 ## Kotlin
 - [AORM](https://github.com/TanVD/AORM)
 - [Komapper](https://github.com/komapper/komapper)
