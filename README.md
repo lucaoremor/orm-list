@@ -77,6 +77,11 @@
 - [Kotysa](https://github.com/ufoss-org/kotysa)
 - [SQLEX](https://github.com/sqlex/sqlex)
 
+## Clojure
+- [Toucan](https://github.com/metabase/toucan)
+- [https://github.com/walkable-server/walkable](https://github.com/walkable-server/walkable)
+- [OJ](https://github.com/taylorlapeyre/oj)
+
 ## C#
 - [Griffin.Data](https://github.com/jgauffin/Griffin.Data)
 - [PetaPogo](https://github.com/CollaboratingPlatypus/PetaPoco)
