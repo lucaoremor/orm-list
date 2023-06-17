@@ -58,6 +58,23 @@
 - [Blitz orm](https://github.com/Blitzapps/blitz-orm)
 - [Fetch r](https://github.com/nexys-system/fetch-r)
 
+## Java
+- [EBEAN](https://github.com/ebean-orm/ebean)
+- [Bee](https://github.com/automvc/bee)
+- [DB Visitor](https://github.com/zycgit/dbvisitor)
+- [Reladamo](https://github.com/goldmansachs/reladomo)
+- [Database-all](https://github.com/gaarason/database-all)
+- [UroboroSQL](https://github.com/future-architect/uroborosql)
+- [Weed3](https://github.com/noear/weed3)
+- [Jack](https://github.com/LiveRamp/jack)
+- [NEO](https://github.com/simonalong/Neo)
+- [Stalactite](https://github.com/codefilarete/stalactite)
+- [NGBatis](https://github.com/nebula-contrib/ngbatis)
+- [Yorm](https://github.com/naynecoder/yorm)
+- [Brief](https://github.com/javaoffers/brief)
+- [Wrapd](https://github.com/DaveVoorhis/Wrapd)
+- [AdvancedSQLClient](https://github.com/ZorTik/AdvancedSQLClient)
+
 ## PHP
 - [Propel 2](https://github.com/propelorm/Propel2)
 - [Think ORM](https://github.com/top-think/think-orm)
@@ -70,17 +87,6 @@
 - [Carbon PHP](https://github.com/RichardTMiles/CarbonPHP)
 - [PHP ORM](https://github.com/riverside/php-orm)
 - [Syra](https://github.com/SertyOan/Syra)
-
-## Kotlin
-- [AORM](https://github.com/TanVD/AORM)
-- [Komapper](https://github.com/komapper/komapper)
-- [Kotysa](https://github.com/ufoss-org/kotysa)
-- [SQLEX](https://github.com/sqlex/sqlex)
-
-## Clojure
-- [Toucan](https://github.com/metabase/toucan)
-- [https://github.com/walkable-server/walkable](https://github.com/walkable-server/walkable)
-- [OJ](https://github.com/taylorlapeyre/oj)
 
 ## C#
 - [Griffin.Data](https://github.com/jgauffin/Griffin.Data)
@@ -98,3 +104,23 @@
 - [Redcord](https://github.com/chanzuckerberg/redcord)
 - [BabySqueel](https://github.com/rzane/baby_squeel)
 - [Tripod](https://github.com/Swirrl/tripod)
+
+## Kotlin
+- [AORM](https://github.com/TanVD/AORM)
+- [Komapper](https://github.com/komapper/komapper)
+- [Kotysa](https://github.com/ufoss-org/kotysa)
+- [SQLEX](https://github.com/sqlex/sqlex)
+
+## Clojure
+- [Toucan](https://github.com/metabase/toucan)
+- [Walkable](https://github.com/walkable-server/walkable)
+- [OJ](https://github.com/taylorlapeyre/oj)
+
+## Haskell
+- [Beam](https://github.com/haskell-beam/beam)
+- [Postgresql ORM](https://github.com/alevy/postgresql-orm)
+- [Orville](https://github.com/flipstone/orville)
+
+## Scala
+- [Easysql-scala](https://github.com/wz7982/easysql-scala)
+- [Scala activerecord](https://github.com/aselab/scala-activerecord)
