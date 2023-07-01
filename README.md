@@ -23,6 +23,7 @@
 - [Go MySQL Orm](https://github.com/folospace/go-mysql-orm)
 - [SQLLingo](https://github.com/lqs/sqlingo)
 - [EzORM](https://github.com/ezbuy/ezorm)
+- [QueryX](https://github.com/swiftcarrot/queryx)
 - [AORM](https://github.com/tangpanqing/aorm)
 - [BeeORM](https://github.com/latolukasz/beeorm)
 - [Zorm](https://github.com/springrain/zorm)
@@ -80,6 +81,7 @@
 - [Think ORM](https://github.com/top-think/think-orm)
 - [CYCLE ORM](https://github.com/cycle/orm)
 - [ORM](https://github.com/laravel-doctrine/orm)
+- [ORM](https://github.com/nextras/orm)
 - [data](https://github.com/atk4/data)
 - [Micro ORM](https://github.com/byjg/micro-orm)
 - [db](https://github.com/compositephp/db)
@@ -87,6 +89,7 @@
 - [Carbon PHP](https://github.com/RichardTMiles/CarbonPHP)
 - [PHP ORM](https://github.com/riverside/php-orm)
 - [Syra](https://github.com/SertyOan/Syra)
+- [Granada](https://github.com/GranadaORM/Granada)
 
 ## C#
 - [Griffin.Data](https://github.com/jgauffin/Griffin.Data)
@@ -110,6 +113,7 @@
 - [Komapper](https://github.com/komapper/komapper)
 - [Kotysa](https://github.com/ufoss-org/kotysa)
 - [SQLEX](https://github.com/sqlex/sqlex)
+- [Jako](https://github.com/AlessioCoser/jako)
 
 ## Clojure
 - [Toucan](https://github.com/metabase/toucan)
@@ -124,3 +128,9 @@
 ## Scala
 - [Easysql-scala](https://github.com/wz7982/easysql-scala)
 - [Scala activerecord](https://github.com/aselab/scala-activerecord)
+
+- ## Rust
+- [Rbatis](https://github.com/rbatis/rbatis)
+
+# Crystal
+- [Avram](https://github.com/luckyframework/avram)
