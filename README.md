@@ -100,6 +100,7 @@
 - [Elephant](https://github.com/takenet/elephant)
 - [Dapper Plus](https://github.com/zzzprojects/Dapper-Plus)
 - [Smart SQL](https://github.com/dotnetcore/SmartSql)
+- [QTorm](https://github.com/dpurgin/qtorm)
 
 ## Ruby
 - [Dynamoid](https://github.com/Dynamoid/dynamoid)
